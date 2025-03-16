@@ -97,6 +97,21 @@ app.*.map.json
 # Web related
 lib/generated_plugin_registrant.dart
 
+# Secrets and environment files
+.env
+.env.local
+*.env
+secrets.json
+.secrets
+**/config/secrets/
+*secret*
+*token*
+*api_key*
+
+# Exception for version controlled config templates
+!*.template.env
+!template.secrets.json
+
 # Exceptions to the above rules.
 !**/ios/**/default.mode1v3
 !**/ios/**/default.mode2v3
