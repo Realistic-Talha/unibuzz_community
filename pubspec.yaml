@@ -1,0 +1,76 @@
+name: unibuzz_community
+description: "A campus community application."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Core Dependencies
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.1
+  shared_preferences: ^2.2.2
+  http: ^1.1.0
+  timeago: ^3.6.0
+  url_launcher: ^6.2.2
+  path_provider: ^2.1.2
+
+  # Firebase Dependencies
+  firebase_core: ^2.25.4
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.13.6
+  firebase_messaging: ^14.7.9
+  firebase_storage: ^11.5.6
+  firebase_app_check: ^0.2.1+8
+  firebase_database: ^10.3.8  # Add this line for Firebase Realtime Database
+
+  # UI and Design Dependencies
+  google_fonts: ^6.1.0
+  lucide_icons: ^0.257.0
+  cached_network_image: ^3.3.0
+  smooth_page_indicator: ^1.1.0
+  shimmer: ^3.0.0
+  photo_view: ^0.14.0
+
+  # Media and File Handling
+  image_picker: ^1.0.5
+  image_cropper: ^5.0.1
+  file_picker: ^6.1.1
+
+  # Authentication
+  google_sign_in: ^6.2.1
+
+  # Location and Maps
+  geolocator: ^10.1.0
+  google_maps_flutter: ^2.5.0
+
+  # Sharing and Media
+  share_plus: ^7.2.1
+
+  # Utils and Formatting
+  intl: ^0.19.0
+  supabase_flutter: ^2.8.2
+  record: ^5.2.0
+  just_audio: ^0.9.42
+  audio_waveforms: ^1.2.0
+  permission_handler: ^10.4.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pic1.png
+    - assets/google-logo.png
+    - assets/unibuzz-logo.png
+    - assets/students_illustration.png
+    - assets/pic-2.png
+    - assets/pic-1.png
+    - assets/LOGO.png
