@@ -1,7 +1,7 @@
 # UniBuzz Community
 
 <p align="center">
-  <img src="assets/Logo-update.png" alt="UniBuzz Logo" width="200"/>
+  <img src="assets/Logo-update.png" alt="UniBuzz Logo" width="100"/>
 </p>
 
 <p align="center">
