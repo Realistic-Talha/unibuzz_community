@@ -1,7 +1,7 @@
 # UniBuzz Community
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="UniBuzz Logo" width="200"/>
+  <img src="assets/Logo-update.png" alt="UniBuzz Logo" width="200"/>
 </p>
 
 <p align="center">
@@ -44,10 +44,10 @@ UniBuzz Community is a mobile application designed to connect university student
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/login_screen.png" alt="Login Screen" width="200"/>
-  <img src="docs/screenshots/feed_screen.png" alt="Feed Screen" width="200"/>
-  <img src="docs/screenshots/events_screen.png" alt="Events Screen" width="200"/>
-  <img src="docs/screenshots/profile_screen.png" alt="Profile Screen" width="200"/>
+  <img src="docs/screenshots/welcome_screen.jpg" alt="welcome Screen" width="200"/>
+  <img src="docs/screenshots/login_screen.jpg" alt="login Screen" width="200"/>
+  <img src="docs/screenshots/chat_screen.jpg" alt="chat Screen" width="200"/>
+  <img src="docs/screenshots/signup_screen.jpg" alt="signup Screen" width="200"/>
 </p>
 
 ## 🚀 Getting Started
